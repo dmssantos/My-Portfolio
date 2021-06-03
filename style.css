@@ -239,3 +239,26 @@ body{
 .about .content .col-right .paragraph-text{
   font-size: 1em;
 }
+
+.skills{
+  background: #000016;
+}
+
+.skills .content{
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.skills .content .col-left{
+    position: relative;
+    width: 46%;
+}
+
+.skills .content .col-right{
+  position: relative;
+  width: 46%;
+}
